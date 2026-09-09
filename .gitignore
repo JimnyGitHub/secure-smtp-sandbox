@@ -1,0 +1,10 @@
+# IDEs and editors
+.idea
+*.iml
+.project
+.classpath
+*.launch
+.settings/
+target
+generated
+!/.claude/
