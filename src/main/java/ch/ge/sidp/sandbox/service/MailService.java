@@ -1,4 +1,4 @@
-package ch.ge.sidp.sandbox.service;
+package sandbox.service;
 
 
 /**
